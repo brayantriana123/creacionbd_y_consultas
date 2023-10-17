@@ -1,1 +1,15 @@
 # creacionbd_y_consultas
+
+## CREAMOS LA TABLA FABRICANTE
+
+![TABLA FABRICANTE](img/1.png)
+![TABLA FABRICANTE](img/2.png)
+
+## CREAMOS TABLA ARTICULO
+
+![TABLA FABRICANTE](img/3.png)
+
+## RESULTADO DE LAS TABLAS
+
+![TABLA FABRICANTE](img/4.png)
+![TABLA FABRICANTE](img/5.png)
